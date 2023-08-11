@@ -210,6 +210,7 @@ body, h1, h2, h3, p, ul, li {
   position: relative;
   text-align: center;
   width: auto;
+  transform: translateY(-2rem);
 }
 
 .cardImg {
